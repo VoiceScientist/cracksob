@@ -1,26 +1,23 @@
 ---
-title: "Manuscript Title"
+title: "Effects of intentional register break prior to sustained high note"
 keywords:
-  - markdown
-  - publishing
-  - manubot
+  - singing
+  - cepstral peak prominence
+  - electroglottography
 lang: en-US
 authors:
-  - github: johndoe
-    name: John Doe
-    initials: JD
-    orcid: XXXX-XXXX-XXXX-XXXX
-    twitter: johndoe
-    email: john.doe@something.com
+  - github: VoiceScientist
+    name: Aaron M. Johnson
+    initials: AMJ
+    orcid: 0000-0002-7577-0267
+    email: aaron.johnson@nyulangone.org
     affiliations:
-      - Department of Something, University of Whatever
+      - NYU Voice Center, Department of Otolaryngology-Head and Neck Surgery, New York University School of Medicine
     funders:
-      - Grant XXXXXXXX
-  - github: janeroe
-    name: Jane Roe
-    initials: JR
-    orcid: XXXX-XXXX-XXXX-XXXX
-    email: jane.roe@whatever.edu
+      - N/A
+  - github: 
+    name: Mike Ruckles
+    initials: MR
+    email: mike@mikeruckles.com
     affiliations:
       - Department of Something, University of Whatever
-      - Department of Whatever, University of Something
