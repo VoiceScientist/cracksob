@@ -23,8 +23,6 @@ fugiat
 incididunt
 ipsum
 irure
-janeroe
-johndoe
 labore
 laboris
 laborum
@@ -34,14 +32,17 @@ mollit
 nisi
 nostrud
 nulla
+NYU
 occaecat
 officia
+Otolaryngology
 Pandoc’s
 pariatur
 proident
 qui
 quis
 reprehenderit
+Ruckles
 sed
 sint
 sunt
@@ -49,6 +50,5 @@ tempor
 ullamco
 velit
 veniam
+VoiceScientist
 voluptate
-XXXX
-XXXXXXXX

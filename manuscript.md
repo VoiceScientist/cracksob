@@ -1,7 +1,7 @@
 ---
 author-meta:
-- John Doe
-- Jane Roe
+- Aaron M. Johnson
+- Mike Ruckles
 bibliography:
 - content/manual-references.json
 date-meta: '2020-08-04'
@@ -15,13 +15,13 @@ header-includes: '<!--
 
   <meta name="dc.format" content="text/html" />
 
-  <meta name="dc.title" content="Manuscript Title" />
+  <meta name="dc.title" content="Effects of intentional register break prior to sustained high note" />
 
-  <meta name="citation_title" content="Manuscript Title" />
+  <meta name="citation_title" content="Effects of intentional register break prior to sustained high note" />
 
-  <meta property="og:title" content="Manuscript Title" />
+  <meta property="og:title" content="Effects of intentional register break prior to sustained high note" />
 
-  <meta property="twitter:title" content="Manuscript Title" />
+  <meta property="twitter:title" content="Effects of intentional register break prior to sustained high note" />
 
   <meta name="dc.date" content="2020-08-04" />
 
@@ -39,21 +39,15 @@ header-includes: '<!--
 
   <meta name="citation_technical_report_institution" content="Manubot" />
 
-  <meta name="citation_author" content="John Doe" />
+  <meta name="citation_author" content="Aaron M. Johnson" />
+
+  <meta name="citation_author_institution" content="NYU Voice Center, Department of Otolaryngology-Head and Neck Surgery, New York University School of Medicine" />
+
+  <meta name="citation_author_orcid" content="0000-0002-7577-0267" />
+
+  <meta name="citation_author" content="Mike Ruckles" />
 
   <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
-
-  <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
-
-  <meta name="twitter:creator" content="@johndoe" />
-
-  <meta name="citation_author" content="Jane Roe" />
-
-  <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
-
-  <meta name="citation_author_institution" content="Department of Whatever, University of Something" />
-
-  <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
 
   <link rel="canonical" href="https://VoiceScientist.github.io/cracksob/" />
 
@@ -67,11 +61,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://VoiceScientist.github.io/cracksob/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://VoiceScientist.github.io/cracksob/v/0964fd7ed7fdc1e3b468b5f4f1234d24de0b14fc/" />
+  <link rel="alternate" type="text/html" href="https://VoiceScientist.github.io/cracksob/v/26b39a14ca0e8b43ebc0ecde6bf8cd03c3ea2753/" />
 
-  <meta name="manubot_html_url_versioned" content="https://VoiceScientist.github.io/cracksob/v/0964fd7ed7fdc1e3b468b5f4f1234d24de0b14fc/" />
+  <meta name="manubot_html_url_versioned" content="https://VoiceScientist.github.io/cracksob/v/26b39a14ca0e8b43ebc0ecde6bf8cd03c3ea2753/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://VoiceScientist.github.io/cracksob/v/0964fd7ed7fdc1e3b468b5f4f1234d24de0b14fc/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://VoiceScientist.github.io/cracksob/v/26b39a14ca0e8b43ebc0ecde6bf8cd03c3ea2753/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -85,15 +79,15 @@ header-includes: '<!--
 
   <!-- end Manubot generated metadata -->'
 keywords:
-- markdown
-- publishing
-- manubot
+- singing
+- cepstral peak prominence
+- electroglottography
 lang: en-US
 manubot-clear-requests-cache: false
 manubot-output-bibliography: output/references.json
 manubot-output-citekeys: output/citations.tsv
 manubot-requests-cache-path: ci/cache/requests-cache
-title: Manuscript Title
+title: Effects of intentional register break prior to sustained high note
 ...
 
 
@@ -103,9 +97,9 @@ title: Manuscript Title
 
 <small><em>
 This manuscript
-([permalink](https://VoiceScientist.github.io/cracksob/v/0964fd7ed7fdc1e3b468b5f4f1234d24de0b14fc/))
+([permalink](https://VoiceScientist.github.io/cracksob/v/26b39a14ca0e8b43ebc0ecde6bf8cd03c3ea2753/))
 was automatically generated
-from [VoiceScientist/cracksob@0964fd7](https://github.com/VoiceScientist/cracksob/tree/0964fd7ed7fdc1e3b468b5f4f1234d24de0b14fc)
+from [VoiceScientist/cracksob@26b39a1](https://github.com/VoiceScientist/cracksob/tree/26b39a14ca0e8b43ebc0ecde6bf8cd03c3ea2753)
 on August 4, 2020.
 </em></small>
 
@@ -113,25 +107,19 @@ on August 4, 2020.
 
 
 
-+ **John Doe**<br>
++ **Aaron M. Johnson**<br>
     ![ORCID icon](images/orcid.svg){.inline_icon}
-    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
+    [0000-0002-7577-0267](https://orcid.org/0000-0002-7577-0267)
     · ![GitHub icon](images/github.svg){.inline_icon}
-    [johndoe](https://github.com/johndoe)
-    · ![Twitter icon](images/twitter.svg){.inline_icon}
-    [johndoe](https://twitter.com/johndoe)<br>
+    [VoiceScientist](https://github.com/VoiceScientist)<br>
   <small>
-     Department of Something, University of Whatever
-     · Funded by Grant XXXXXXXX
+     NYU Voice Center, Department of Otolaryngology-Head and Neck Surgery, New York University School of Medicine
+     · Funded by N/A
   </small>
 
-+ **Jane Roe**<br>
-    ![ORCID icon](images/orcid.svg){.inline_icon}
-    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
-    · ![GitHub icon](images/github.svg){.inline_icon}
-    [janeroe](https://github.com/janeroe)<br>
++ **Mike Ruckles**<br><br>
   <small>
-     Department of Something, University of Whatever; Department of Whatever, University of Something
+     Department of Something, University of Whatever
   </small>
 
 
