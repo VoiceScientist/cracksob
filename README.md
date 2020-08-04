@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/VoiceScientist/cracksob/tree/gh-pages) branch hosts the contents of this directory at <https://VoiceScientist.github.io/cracksob/>.
-The permalink for this webpage version is <https://VoiceScientist.github.io/cracksob/v/0964fd7ed7fdc1e3b468b5f4f1234d24de0b14fc/>.
+The permalink for this webpage version is <https://VoiceScientist.github.io/cracksob/v/26b39a14ca0e8b43ebc0ecde6bf8cd03c3ea2753/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://VoiceScientist.github.io/cracksob/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`0964fd7ed7fdc1e3b468b5f4f1234d24de0b14fc`](https://github.com/VoiceScientist/cracksob/commit/0964fd7ed7fdc1e3b468b5f4f1234d24de0b14fc).
+[`26b39a14ca0e8b43ebc0ecde6bf8cd03c3ea2753`](https://github.com/VoiceScientist/cracksob/commit/26b39a14ca0e8b43ebc0ecde6bf8cd03c3ea2753).
